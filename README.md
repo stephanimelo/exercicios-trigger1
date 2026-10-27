@@ -16,4 +16,4 @@ Script (estrutura da tabela de log e trigger): [trigger_log_professor.sql](trigg
 
 ## Resultado do teste
 
-<img src="log1.PNG" width="600"/>
+<img src="foto1.PNG" width="600"/>
